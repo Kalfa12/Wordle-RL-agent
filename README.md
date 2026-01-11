@@ -96,13 +96,4 @@ python train_curriculum.py --phase 3 --episodes 100000 \
 - DQN with Experience Replay
 - Target network (soft updates)
 - ε-greedy exploration with decay
-- Action masking for constraint satisfaction
-
-## 📚 References
-
-- Mnih et al. (2015) - *Human-level control through deep reinforcement learning*
-- Bengio et al. (2009) - *Curriculum learning*
-
-## 👤 Author
-
-Taha El Younsi - December 2024
+- Action masking for constraint satisfactionn
