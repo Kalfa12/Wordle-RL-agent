@@ -69,10 +69,7 @@ python train_curriculum.py --phase 3 --episodes 100000 \
 ├── train_curriculum.py           # Main training script
 ├── evaluate_agent.py             # Model evaluation
 ├── presentation/
-│   ├── REPORT_CARD.md            # Summary report
-│   ├── wordle_rl_report.tex      # Full LaTeX report
 │   ├── demo_teacher.py           # Interactive demo
-│   └── plot_comparison.py        # Training visualization
 ├── results/sota/                 # Trained models & logs
 ├── wordle-La.txt                 # 2,315 solution words
 └── wordle-Ta.txt                 # 10,657 valid guess words
